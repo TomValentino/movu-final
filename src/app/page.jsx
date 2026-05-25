@@ -577,7 +577,7 @@ justify-content: center;
     width: 100%;
     height: 100%;
     object-fit: cover; /* 👈 key: crop instead of contain */
-    object-position: center bottom; /* tweak this for best crop */
+    object-position: center center; /* tweak this for best crop */
   }
 }
 /* ============================================================
