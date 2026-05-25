@@ -908,7 +908,7 @@ justify-content: center;
   .why__img-card--main {
     position: relative;
     width: 100%;
-    aspect-ratio: 16/10; /* 👈 more "hero-like" crop */
+    aspect-ratio: 1/1; /* 👈 more "hero-like" crop */
   }
 
   .why__img-card--accent {
