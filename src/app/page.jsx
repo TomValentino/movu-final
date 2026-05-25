@@ -1725,7 +1725,7 @@ const page = () => {
           {/* MAIN IMAGE CARD */}
           <div className="why__img-card why__img-card--main">
             <img
-              src="/movu.webp"
+              src="/movu-2.webp"
               alt="Movu rullator"
               className="why__image"
             />
