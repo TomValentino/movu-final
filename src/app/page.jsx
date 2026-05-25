@@ -567,7 +567,7 @@ justify-content: center;
   /* 🔥 IMAGE becomes cropped "hero block" */
   .hero__media {
     width: 100%;
-    height: 260px;
+    height: 50vh;
     border-radius: 16px;
     overflow: hidden;
     position: relative;
@@ -577,7 +577,7 @@ justify-content: center;
     width: 100%;
     height: 100%;
     object-fit: cover; /* 👈 key: crop instead of contain */
-    object-position: center top; /* tweak this for best crop */
+    object-position: center bottom; /* tweak this for best crop */
   }
 }
 /* ============================================================
